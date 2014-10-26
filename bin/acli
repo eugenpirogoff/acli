@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'acli'
+Acli::CLI.start(ARGV)
