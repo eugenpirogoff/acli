@@ -25,4 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'thor', '~> 0.19.1'
   spec.add_dependency 'typhoeus', '~> 0.6.9'
   spec.add_dependency 'nokogiri',  '~> 1.6.3.1'
+  spec.add_dependency 'zip', '~> 2.0.2'
 end
