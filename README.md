@@ -3,6 +3,7 @@ acli
 
 a(wesome swift)cli provides convenient download over the command line of swift libraries listed in [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) and [wolg/awesome-swift](https://github.com/Wolg/awesome-swift). to a folder on your machine. other 'readme.md' files can be added over .aclirc as 'repository'. the default folder is 'swift_lib' in the executed folder. this can be change in the .aclirc config file as well.
 
+[![Gem Version](https://badge.fury.io/rb/acli.svg)](http://badge.fury.io/rb/acli)
 
 installation
 ===
