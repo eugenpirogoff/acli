@@ -1,5 +1,5 @@
 require "acli/version"
 
 module Acli
-  autoload :CLI, 'acli/cli'
+	autoload :CLI, 'acli/cli'
 end
