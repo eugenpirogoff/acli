@@ -1,3 +1,12 @@
+ACLI IS DEPRECATED
+=====
+Swift is getting more and more a mature language and so the tools that are used in the ecosystem finally have support of it, so please use them. 
+
+[Carthage](https://github.com/Carthage/Carthage)
+
+[Cocoapods](http://cocoapods.org)
+
+
 acli
 ====
 
