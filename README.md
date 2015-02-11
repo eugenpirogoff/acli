@@ -1,10 +1,13 @@
 ACLI IS DEPRECATED
 =====
-Swift is getting more and more a mature language and so the tools that are used in the ecosystem finally have support of it, so please use them. 
+Swift is getting more and more a mature language and so the tools that are used in the ecosystem finally have support of it, so please use them. The acli gem is also no longer available for installation from rubygems.  
 
 [Carthage](https://github.com/Carthage/Carthage)
 
 [Cocoapods](http://cocoapods.org)
+
+
+
 
 
 acli
